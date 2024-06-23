@@ -148,11 +148,7 @@ footer {
     }
 
 	#privacy-message {
-		position: absolute;
-		bottom: 5px;
-		width: 100%;
-		text-align: center;
-		padding-bottom: 90px;
-		color: var(--secondarycolor);
+		display: none;
+		width: 0%;
 	}
 }
