@@ -151,4 +151,9 @@ footer {
 		display: none;
 		width: 0%;
 	}
+
+	html {
+		font-size: 12px;
+		line-height: 1.2em;
+	}
 }
