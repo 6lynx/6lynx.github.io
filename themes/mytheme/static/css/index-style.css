@@ -118,3 +118,41 @@ footer {
     background-color: var(--secondarycolor); 
     color: var(--maincolor);
 }
+
+
+
+@media (max-width: 768px) {
+    .container {
+        padding-bottom: 60px; 
+    }
+
+    footer {
+        flex-direction: column;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+    }
+
+    .footer-left, .footer-right {
+        width: 100%;
+        padding: 10px 20px;
+    }
+
+    .footer-right {
+        justify-content: center;
+    }
+
+    .footer-right a {
+        margin: 0 5px;
+    }
+
+	#privacy-message {
+		position: absolute;
+		bottom: 5px;
+		width: 100%;
+		text-align: center;
+		padding-bottom: 90px;
+		color: var(--secondarycolor);
+	}
+}
