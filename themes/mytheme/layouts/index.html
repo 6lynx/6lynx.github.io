@@ -1,0 +1,27 @@
+<!-- themes/mytheme/layouts/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Site.Title }}</title>
+    <link rel="stylesheet" href="{{ "css/index-style.css" | relURL }}">	
+</head>
+<body>
+    <div class="container">
+        <div class="contents">
+            <header>
+                <h1><a href="https://www.example.org">6lynx</a></h1>
+            </header>
+            <ul id="categories">
+                <li id="about"><a href="{{ "about/" | relURL }}">about</a></li>
+                <li id="hobbies"><a href="{{ "hobbies/" | relURL }}">what i enjoy</a></li>
+                <li id="courses"><a href="{{ "courses/" | relURL }}">courses and books</a></li>
+                <li id="tech"><a href="{{ "tech/" | relURL }}">tech that i use</a></li>
+            </ul>
+        </div>
+    </div>
+    <hr>
+    {{ partial "footer.html" . }}
+</body>
+</html>
