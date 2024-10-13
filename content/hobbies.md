@@ -10,7 +10,7 @@ progressive rock
 
 modding games to death and never playing them
 
-chess (recently)
+chess
 
 all sorts of media consumption
 
