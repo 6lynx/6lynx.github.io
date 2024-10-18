@@ -2,3 +2,8 @@ baseURL = "https://6lynx.github.io/"
 languageCode = 'en-us'
 title = '6lynx'
 theme = 'mytheme'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
