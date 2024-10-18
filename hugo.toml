@@ -1,4 +1,4 @@
-baseURL = 'https://6lynx.github.io/6lynx.github.io/'
+baseURL = "https://6lynx.github.io/"
 languageCode = 'en-us'
 title = '6lynx'
 theme = 'mytheme'

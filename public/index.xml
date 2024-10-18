@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>6lynx</title>
-    <link>http://localhost:1313/6lynx.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on 6lynx</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/6lynx.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/6lynx.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/6lynx.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>about i&amp;rsquo;m an mis (management information systems) student&#xA;who tries to self-study computer science.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/6lynx.github.io/courses/</link>
+      <link>http://localhost:1313/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/6lynx.github.io/courses/</guid>
+      <guid>http://localhost:1313/courses/</guid>
       <description>online cs courses i took py4e | my solutions cs50p | my solutions 6.0001x | my solutions spd | final project (sort of) books i read c programming: a modern approach </description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/6lynx.github.io/hobbies/</link>
+      <link>http://localhost:1313/hobbies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/6lynx.github.io/hobbies/</guid>
+      <guid>http://localhost:1313/hobbies/</guid>
       <description>things that i enjoy football&#xA;formula 1&#xA;iem&amp;rsquo;s&#xA;progressive rock&#xA;modding games to death and never playing them&#xA;chess&#xA;all sorts of media consumption&#xA;favourite media i consumed: books: a clockwork orange, the old man and the sea&#xA;movies: kill bill part 1, midnight in paris, lost in translation&#xA;tv-shows: succession, the newsroom, arrested development, barry&#xA;games: dishonored, deus ex, elder scrolls, the witcher, prey(2015)&#xA;music: last.fm</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/6lynx.github.io/tech/</link>
+      <link>http://localhost:1313/tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/6lynx.github.io/tech/</guid>
+      <guid>http://localhost:1313/tech/</guid>
       <description>tech that i use (i couldn&amp;rsquo;t find anything to put on this website so i created this pointless page)&#xA;pc specs: i3 7100&#xA;asus 1050ti 4gb&#xA;8gb 2300mhz ram&#xA;1tb hdd&#xA;laptop specs: ryzen 5 5600h&#xA;rtx 3060 6gb&#xA;16gb 3200mhz ram&#xA;512gb ssd&#xA;phone: samsung galaxy s23 256gb&#xA;earphones: truthear hexa, moondrop quarks dsp, samsung buds 2 pro&#xA;smartwatch: samsung galaxy watch 5&#xA;(got it for free, mostly sits at home cuz i&amp;rsquo;m too lazy to charge it)</description>
     </item>
   </channel>
