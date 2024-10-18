@@ -1,11 +1,34 @@
 :root {
-    --maincolor: #101820;
-    --bordercl: #1a7a4c;
-    --selection-color: #412849;
-    --callouctcolor: #412849;
-    --secondarycolor: #1a7a4c;
-    --darkMaincolor: #50fa7b;
+    --maincolor: #bcbcbc;
+    --bordercl: #333333;
+    --selection-color: #b2b2b2;
+    --callouctcolor: #b2b2b2;
+    --secondarycolor: #333333;
+	--mainselcolor: #000
 }
+.dark-theme{
+	--maincolor: #333333;
+    --bordercl: #bcbcbc;
+    --selection-color: #3d3d3d;
+    --callouctcolor: ##3d3d3d;
+    --secondarycolor: #bcbcbc;
+	--mainselcolor: #fff
+}
+
+
+#icon{
+	width: 30px;
+	height: auto;
+	cursor:pointer;
+	position: absolute;
+	top: 20px;
+	right: 20px;
+}
+
+h1, h2, h3, p, li {
+    color: var(--secondarycolor); 
+}
+
 
 html {
     color: var(--secondarycolor);
@@ -27,9 +50,34 @@ body {
     overflow-x: hidden; 
 }
 
+.blinking-cursor {
+    display: inline-block; 
+    position: relative; 
+}
+
+.blinking-cursor::after {
+    content: ''; 
+    width: 3px; 
+    height: 1.2em; 
+    background-color: var(--secondarycolor); 
+    position: absolute; 
+    right: -5px; 
+    animation: blink 1s step-end infinite; 
+}
+
+
+@keyframes blink {
+    0%, 100% {
+        opacity: 0; 
+    }
+    50% {
+        opacity: 1; 
+    }
+}
+
 ::selection {
     background: var(--selection-color);
-    color: #fff;
+    color: var(--mainselcolor);
 }
 
 hr {
@@ -46,6 +94,12 @@ a {
 a:hover {
     background-color: var(--secondarycolor);
     color: var(--maincolor);
+
+}
+
+#categories li a:hover {
+    background-color: var(--bordercl); 
+    color: var(--maincolor); 
 }
 
 ul {
@@ -95,7 +149,14 @@ ul li {
 
 header {
     margin-left: -2.5ch;
+	color: var(--secondarycolor);
+	
 }
+
+#categories li a {
+    color: var(--secondarycolor);
+}
+
 
 footer {
     display: flex;
@@ -156,3 +217,5 @@ footer {
         padding-left: 1ch; 
     }
 }
+
+

@@ -6,9 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ .Title }}</title>
     <link rel="stylesheet" href="{{ "css/index-style.css" | relURL }}">
-	<link rel="icon" href="{{ "favicon.ico" | relURL }}" type="image/x-icon">
 </head>
 <body>
+	<img src="{{ "/images/moon.png" | relURL }}" id="icon" alt="color mode switch">
+
+
+
     <div class="container">
         {{ block "main" . }}{{ end }}
     </div>
