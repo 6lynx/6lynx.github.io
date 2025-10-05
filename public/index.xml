@@ -30,10 +30,10 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:62637/tech/</link>
+      <link>http://localhost:62637/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:62637/tech/</guid>
-      <description>&lt;div style=&#34;line-height: 1.2; margin-bottom: 0;&#34;&gt;&#xA;&lt;h2 id=&#34;tech-that-i-use&#34;&gt;tech that i use&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;(i couldn&amp;rsquo;t find anything to put on this website so i created this pointless page)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;pc-specs&#34;&gt;pc specs:&lt;/h3&gt;&#xA;&lt;p&gt;i3 7100&lt;br&gt;&#xA;asus 1050ti 4gb&lt;br&gt;&#xA;8gb 2300mhz ram&lt;br&gt;&#xA;1tb hdd&lt;/p&gt;&#xA;&lt;h3 id=&#34;laptop-specs&#34;&gt;laptop specs:&lt;/h3&gt;&#xA;&lt;p&gt;ryzen 5 5600h&lt;br&gt;&#xA;rtx 3060 6gb&lt;br&gt;&#xA;16gb 3200mhz ram&lt;br&gt;&#xA;512gb ssd&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;phone:&lt;/strong&gt; samsung galaxy s23 256gb&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;earphones:&lt;/strong&gt; truthear hexa, moondrop quarks dsp, samsung buds 2 pro&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;smartwatch:&lt;/strong&gt; samsung galaxy watch 5&lt;br&gt;&#xA;&lt;em&gt;(got it for free, mostly sits at home cuz i&amp;rsquo;m too lazy to charge it)&lt;/em&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:62637/projects/</guid>
+      <description>&lt;h2 id=&#34;projects&#34;&gt;projects&lt;/h2&gt;&#xA;&lt;h3 id=&#34;klipper--video-editor--content-creator-marketplace&#34;&gt;klipper — video editor &amp;amp; content creator marketplace&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;website: &lt;a href=&#34;https://klipper.online&#34;&gt;klipper.online&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
