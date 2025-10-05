@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Site.Title }}</title>
+    <link rel="stylesheet" href="{{ "css/index-style.css" | relURL }}">
+    <script src="{{ "js/dark-mode.js" | relURL }}" defer></script>
+	<link rel="icon" href="{{ "favicon.png" | relURL }}" type="image/png">
+</head>
+<body>
+    <div class="container">
+        <div class="contents">
+            <header>
+                <h1 class="blinking-cursor"><a href="https://6lynx.github.io/">6lynx</a></h1>
+                <img src="{{ "images/moon.png" | relURL }}" id="icon" alt="color mode switch">
+            </header>
+            <ul id="categories">
+                <li id="about"><a href="{{ "about/" | relURL }}">about</a></li>
+                <li id="hobbies"><a href="{{ "hobbies/" | relURL }}">what i enjoy</a></li>
+                <li id="courses"><a href="{{ "courses/" | relURL }}">courses and books</a></li>
+                <li id="tech"><a href="{{ "tech/" | relURL }}">tech that i use</a></li>
+            </ul>
+        </div>
+    </div>
+    <hr>
+    {{ partial "footer.html" . }}
+</body>
+</html>

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>6lynx</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:62637/</link>
     <description>Recent content on 6lynx</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:62637/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:62637/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>about i&amp;rsquo;m an mis (management information systems) student&#xA;who tries to self-study computer science.</description>
+      <guid>http://localhost:62637/about/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;about&lt;/h2&gt;&#xA;&lt;p&gt;i&amp;rsquo;m an mis (management information systems) student&lt;br&gt;&#xA;who tries to self-study computer science.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/courses/</link>
+      <link>http://localhost:62637/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/courses/</guid>
-      <description>online cs courses i took py4e | my solutions cs50p | my solutions 6.0001x | my solutions spd | final project (sort of) books i read c programming: a modern approach </description>
+      <guid>http://localhost:62637/courses/</guid>
+      <description>&lt;h2 id=&#34;online-cs-courses-i-took&#34;&gt;online cs courses i took&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.py4e.com/&#34;&gt;py4e&lt;/a&gt; | &lt;a href=&#34;https://github.com/6lynx/my-py4e-solutions&#34;&gt;my solutions&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://cs50.harvard.edu/python/2022/&#34;&gt;cs50p&lt;/a&gt; | &lt;a href=&#34;https://github.com/6lynx/my-cs50p-solutions&#34;&gt;my solutions&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://learning.edx.org/course/course-v1:MITx+6.00.1x+2T2018/home&#34;&gt;6.0001x&lt;/a&gt; | &lt;a href=&#34;https://github.com/6lynx/6.0001x-solutions&#34;&gt;my solutions&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015/home&#34;&gt;spd&lt;/a&gt; | &lt;a href=&#34;https://github.com/6lynx/space-invaders-spd&#34;&gt;final project (sort of)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;books-i-read&#34;&gt;books i read&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/C-Programming-Modern-Approach-2nd/dp/0393979504&#34;&gt;c programming: a modern approach&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/hobbies/</link>
+      <link>http://localhost:62637/hobbies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hobbies/</guid>
-      <description>things i enjoy football formula 1 iem&amp;rsquo;s progressive rock modding games to death and never playing them chess all sorts of media consumption favourite media i consumed: books:&#xA;a clockwork orange the old man and the sea movies: letterboxd&#xA;kill bill part 1 midnight in paris lost in translation tv shows: tvtime&#xA;succession the newsroom arrested development barry games:&#xA;dishonored deus ex elder scrolls the witcher prey (2015) music: last.</description>
+      <guid>http://localhost:62637/hobbies/</guid>
+      <description>&lt;div style=&#34;line-height: 1.2; margin-bottom: 0;&#34;&gt;&#xA;&lt;h2 id=&#34;things-i-enjoy&#34;&gt;things i enjoy&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;football&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;formula 1&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;iem&amp;rsquo;s&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;progressive rock&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;modding games to death and never playing them&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;chess&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;all sorts of media consumption&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;favourite-media-i-consumed&#34;&gt;favourite media i consumed:&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;books:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;a clockwork orange&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;the old man and the sea&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;movies:&lt;/strong&gt; &lt;a href=&#34;https://letterboxd.com/redlynx/&#34; style=&#34;color: #009B16 ; font-weight: bold;&#34;&gt;letterboxd&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;kill bill part 1&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;midnight in paris&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;lost in translation&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;tv shows:&lt;/strong&gt; &lt;a href=&#34;https://app.tvtime.com/user/55866556&#34; style=&#34;color: #FFD700     ; font-weight: bold;&#34;&gt;tvtime&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;succession&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;the newsroom&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;arrested development&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;barry&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;games:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;dishonored&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;deus ex&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;elder scrolls&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;the witcher&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;prey (2015)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;music:&lt;/strong&gt; &lt;a href=&#34;https://www.last.fm/user/zredlynx&#34; style=&#34;color: red; font-weight: bold;&#34;&gt;last.fm&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/tech/</link>
+      <link>http://localhost:62637/tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tech/</guid>
-      <description>tech that i use (i couldn&amp;rsquo;t find anything to put on this website so i created this pointless page)&#xA;pc specs: i3 7100&#xA;asus 1050ti 4gb&#xA;8gb 2300mhz ram&#xA;1tb hdd&#xA;laptop specs: ryzen 5 5600h&#xA;rtx 3060 6gb&#xA;16gb 3200mhz ram&#xA;512gb ssd&#xA;phone: samsung galaxy s23 256gb&#xA;earphones: truthear hexa, moondrop quarks dsp, samsung buds 2 pro&#xA;smartwatch: samsung galaxy watch 5&#xA;(got it for free, mostly sits at home cuz i&amp;rsquo;m too lazy to charge it)</description>
+      <guid>http://localhost:62637/tech/</guid>
+      <description>&lt;div style=&#34;line-height: 1.2; margin-bottom: 0;&#34;&gt;&#xA;&lt;h2 id=&#34;tech-that-i-use&#34;&gt;tech that i use&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;(i couldn&amp;rsquo;t find anything to put on this website so i created this pointless page)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;pc-specs&#34;&gt;pc specs:&lt;/h3&gt;&#xA;&lt;p&gt;i3 7100&lt;br&gt;&#xA;asus 1050ti 4gb&lt;br&gt;&#xA;8gb 2300mhz ram&lt;br&gt;&#xA;1tb hdd&lt;/p&gt;&#xA;&lt;h3 id=&#34;laptop-specs&#34;&gt;laptop specs:&lt;/h3&gt;&#xA;&lt;p&gt;ryzen 5 5600h&lt;br&gt;&#xA;rtx 3060 6gb&lt;br&gt;&#xA;16gb 3200mhz ram&lt;br&gt;&#xA;512gb ssd&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;phone:&lt;/strong&gt; samsung galaxy s23 256gb&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;earphones:&lt;/strong&gt; truthear hexa, moondrop quarks dsp, samsung buds 2 pro&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;smartwatch:&lt;/strong&gt; samsung galaxy watch 5&lt;br&gt;&#xA;&lt;em&gt;(got it for free, mostly sits at home cuz i&amp;rsquo;m too lazy to charge it)&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

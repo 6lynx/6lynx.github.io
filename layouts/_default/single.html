@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }}</title>
+	<link rel="icon" href="{{ "favicon.png" | relURL }}" type="image/png">
+    <link rel="stylesheet" href="{{ "css/index-style.css" | relURL }}">
+    <script src="{{ "js/dark-mode.js" | relURL }}" defer></script>
+</head>
+<body>
+    <img src="{{ "/images/moon.png" | relURL }}" id="icon" alt="color mode switch">
+    <div class="container">
+        <header>
+            <h1>{{ .Title }}</h1>
+        </header>
+        <div class="content">
+            {{ .Content }}
+        </div>
+    </div>
+    <hr>
+    {{ partial "footer.html" . }}
+</body>
+</html>
